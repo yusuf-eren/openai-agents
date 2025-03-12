@@ -1,0 +1,2 @@
+pydantic==2.10.6
+openai-agents==0.0.3
